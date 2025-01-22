@@ -12,9 +12,9 @@ Olá! Sou um desenvolvedor Java apaixonado por tecnologia e sempre em busca de n
 
 ## 🛠️ Tecnologias Principais
 
-- **Linguagens:** Java, HTML, CSS
-- **Frameworks:** Spring Boot
-- **Ferramentas:** VS Code, IntelliJ IDEA, Git
+- **Linguagens:** Java, JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** Spring Boot, Tailwind
+- **Ferramentas:** VS Code,Eclipse, IntelliJ IDEA, Git
 
 ## 📬 Contato
 
