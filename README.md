@@ -1,14 +1,5 @@
 # Bem-vindo ao meu GitHub! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-
----
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+meu+GitHub!" alt="Banner" />
-</p>
-
 ---
 
 ## Sobre Mim 🌱
